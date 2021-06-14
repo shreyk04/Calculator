@@ -21,7 +21,7 @@ input {
   border-radius: 1rem;
   border: none;
 
-  /* border-radius: 20px; */
+ 
 }
 ::placeholder {
   border: none;
@@ -43,9 +43,7 @@ button:hover {
 }
 .calculator {
   display: inline-block;
-  /* margin-left: 1rem;
-  margin-right: 2rem; */
-  /* height: 90%; */
+  
   background-color: rgb(199, 212, 212);
   box-shadow: 0px 0px 27px #257c99;
   border-radius: 1rem;
